@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.post{
+    background-color: white;
+    width: 400px;
+    height: 550px;
+    font-size: 14px;
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+}    
+
+
+.post-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img{
+    display: flex;
+}
+
+.lista{
+    line-height: 6px;
+    padding-right: 10px;
+}
+
+.post-icons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.post-icons{
+    padding: 5px;
+}
+
+.post-body{
+    padding: 5px;
+}
