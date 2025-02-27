@@ -23,10 +23,15 @@ body{
     justify-content: space-between;
 }
 
-.img{
+.rigoberto{
     display: flex;
+    align-items: center;
+    padding: 2px;
 }
 
+.logo{
+    font-size: 40px;
+}
 .lista{
     line-height: 6px;
     padding-right: 10px;
@@ -35,10 +40,8 @@ body{
 .post-icons{
     display: flex;
     justify-content: space-between;
-}
-
-.post-icons{
     padding: 5px;
+    font-size: 20px;
 }
 
 .post-body{
